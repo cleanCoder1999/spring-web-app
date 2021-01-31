@@ -83,7 +83,6 @@ public class Author
             .append("id", id)
             .append("firstName", firstName)
             .append("lastName", lastName)
-            .append("books", books)
             .toString();
     }
 

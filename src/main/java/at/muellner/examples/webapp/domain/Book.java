@@ -104,7 +104,6 @@ public class Book
             .append("id", id)
             .append("title", title)
             .append("isbn", isbn)
-            .append("authors", authors)
             .toString();
     }
 
